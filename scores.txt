@@ -1,8 +1,8 @@
-Jelly Beans
-12
-Candy Canes
+Jelly Bean
+13
+Candy Cane
 34
-Ginger Breads
+Ginger Bread
 99
 Fruit Cake
 666
